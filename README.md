@@ -2,7 +2,7 @@
 
 1. Add user `softservedata` to this repository.+done
 
-2. Create branch `develop` as default branch.
+2. Create branch `develop` as default branch.+done
 
 3. Protect branches `main` and `develop` with these rules:
 - user can't merge to both branches without pull request
